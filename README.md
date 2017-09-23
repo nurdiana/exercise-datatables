@@ -1,2 +1,2 @@
 # exercise-datatables
-This is my exercise for learning from datatables.net
+This is my exercise for learning datatables.net
